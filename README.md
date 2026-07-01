@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer (6+ yrs) | .NET & Angular Specialist | Exploring AI/LLM Engineering</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arun-sai-gandham-00a650147?utm_source=share_via&utm_-content=profile&utm_medium=member_ios"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="mailto:arunsaigandham1998@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
 </p>
 
