@@ -14,7 +14,7 @@
 - 🤖 Currently upskilling into **AI Engineering** — working hands-on with **OpenAI / GPT APIs**, **LangChain**, and **RAG (Retrieval-Augmented Generation)** systems
 - 🧠 Focused on bringing **LLM-powered features** (chatbots, intelligent assistants, document Q&A, prompt-driven automation) into production-grade full-stack apps
 - 💡 Interested in the intersection of **traditional enterprise software** and **applied generative AI**
-- 📫 Reach me at: **YOUR-EMAIL@example.com**
+- 📫 Reach me at: **arunsaigandham1998@gmail.com**
 
 ---
 
