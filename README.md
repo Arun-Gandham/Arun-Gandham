@@ -37,11 +37,15 @@
 
 ### 🤖 AI Projects & Explorations
 
-> _Add 2–3 real projects here — even small ones count. Suggested format below; swap in your actual repo names/links._
+- **🧠 Multi-Agent Task Orchestrator** — A LangChain-based system where a *planner agent* breaks a user goal into subtasks, hands them off to specialized *worker agents* (research, coding, summarization), and a *reviewer agent* validates the final output. Demonstrates agent-to-agent handoff, tool-calling, and shared memory/state.
 
-- **[Project Name]** — Short description (e.g., "RAG-based chatbot that answers questions from internal docs using LangChain + OpenAI + Angular front end") → `link to repo`
-- **[Project Name]** — Short description (e.g., "Prompt-engineering experiments building GPT-powered code review assistant") → `link to repo`
-- **Learning in public** — Currently working through hands-on RAG pipelines and LLM app architecture; new experiments pushed regularly
+- **💬 Enterprise Doc-Chat Assistant (RAG)** — A chatbot that answers questions from internal documents/knowledge bases using OpenAI embeddings + a vector store (FAISS/Chroma) for retrieval, with an Angular front end and a .NET Web API backend. Focused on grounding LLM answers in real data instead of hallucinating.
+
+- **🕹️ Autonomous Code-Review Agent** — A GPT-powered agent that reads a pull request diff, checks it against team coding standards, and posts structured review comments — built to explore tool-use, prompt chaining, and self-correction loops in agentic workflows.
+
+- **🔗 AI Agent Playground** — A sandbox repo for experimenting with multi-agent frameworks (LangChain agents, tool routing, memory) — quick iterations to learn agent design patterns before applying them to production systems.
+
+> Note: swap in your actual repo links once these are pushed. Even early-stage or in-progress repos are fine to link — it shows real hands-on work over generic buzzwords.
 
 ---
 
