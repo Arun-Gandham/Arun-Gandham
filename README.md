@@ -45,8 +45,6 @@
 
 - **🔗 AI Agent Playground** — A sandbox repo for experimenting with multi-agent frameworks (LangChain agents, tool routing, memory) — quick iterations to learn agent design patterns before applying them to production systems.
 
-> Note: swap in your actual repo links once these are pushed. Even early-stage or in-progress repos are fine to link — it shows real hands-on work over generic buzzwords.
-
 ---
 
 ### 📊 GitHub Stats
